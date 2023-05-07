@@ -48,9 +48,11 @@ set(PluginTemplate_SOURCES "")
 
 list(APPEND PluginTemplate_SOURCES
 	"src/plugin.cpp"
-	"src/pluginmain.cpp"
+	"src/sync.cpp"
+	"src/tunnel.cpp"
 	"src/plugin.h"
-	"src/pluginmain.h"
+	"src/sync.h"
+	"src/tunnel.h"
 )
 
 list(APPEND PluginTemplate_SOURCES

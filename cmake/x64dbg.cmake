@@ -1,7 +1,7 @@
 CPMAddPackage(
     NAME x64dbg
-    URL https://downloads.sourceforge.net/project/x64dbg/snapshots/snapshot_2021-11-20_10-12.zip
-    URL_HASH SHA1=C75AC6BA7E7E5AB60632EED5648254E4BEF11465
+    URL https://sourceforge.net/projects/x64dbg/files/snapshots/snapshot_2023-04-30_13-19.zip/download
+    URL_HASH SHA1=77537ccb80dc8d514df0d6cee288150a222b5d83
     DOWNLOAD_ONLY ON
 )
 
